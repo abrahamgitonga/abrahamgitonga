@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraham Gitonga</h1>
 <h3 align="center">A freelance Software developer and entry-level cybersecurity practitioner</h3>
 
-- 🔭 I’m currently working on **Visa application website**
+- 🔭 I’m currently working on **Chat application**
 
 - 🌱 I’m currently learning **Angular, Shell Scripting**
 
@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **React, Cyber Security**
 
-- 📫 How to reach me **abrahamgitonga98@gmail.com**
 
 
 <p align="left">
