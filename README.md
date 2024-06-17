@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abraham Gitonga</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A freelance Software developer and entry-level cybersecurity practitioner</h3>
 
 - 🔭 I’m currently working on **Events Ticketing system**
