@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **React,Angular, Shell projects**
 
-- 🤝 I’m looking for help with **Angular projects**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-comingsoon.vercel.app/](https://portfolio-comingsoon.vercel.app/)
 
 - 💬 Ask me about **React, Cyber Security , Web Security**
