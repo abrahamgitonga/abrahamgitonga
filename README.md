@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A freelance Software developer and entry-level cybersecurity practitioner</h3>
+<h3 align="center">A freelance Software developer</h3>
 
 - 🔭 I’m currently working on **Point Of Sale system**
 
