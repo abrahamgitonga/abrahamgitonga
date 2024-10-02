@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Shell Scripting**
 
-- 👯 I’m looking to collaborate on **React,Angular, Shell projects**
+- 👯 I’m looking to collaborate on **Angular projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-comingsoon.vercel.app/](https://portfolio-comingsoon.vercel.app/)
 
