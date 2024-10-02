@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Events Website**
 
-- 🌱 I’m currently learning **Angular, Shell Scripting**
+- 🌱 I’m currently learning **Shell Scripting**
 
 - 👯 I’m looking to collaborate on **React,Angular, Shell projects**
 
