@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Events Website**
 
-- 🌱 I’m currently learning **Shell Scripting**
-
 - 👯 I’m looking to collaborate on **Angular projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-comingsoon.vercel.app/](https://portfolio-comingsoon.vercel.app/)
