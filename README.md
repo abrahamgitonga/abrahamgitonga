@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A freelance developer</h3>
 
-- 👯 I’m looking to collaborate on **Angular and Django projects**
+- 👯 collaborating on **Angular and Django projects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-comingsoon.vercel.app/](https://portfolio-comingsoon.vercel.app/)
 
