@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A freelance developer</h3>
+<h3 align="center">A freelance dev</h3>
 
 - 👯 collaborating on **Angular and Django projects**
 
