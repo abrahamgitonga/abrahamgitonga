@@ -9,7 +9,6 @@
 
 ###
 
-
 ###
 
 <div align="left">
@@ -40,7 +39,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/abrahamgitonga/abrahamgitonga/output/snake.svg" alt="Snake animation" />
 
 ###
